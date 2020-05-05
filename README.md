@@ -2,4 +2,4 @@
 Mob programming 
 
 Link to live site:
-https://practical-bhaskara-05ee2e.netlify.app/
+https://goofy-chandrasekhar-84c663.netlify.app/
